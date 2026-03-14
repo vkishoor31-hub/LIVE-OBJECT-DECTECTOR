@@ -1,0 +1,10 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+opencv-python>=4.10.0
+ultralytics
+twilio==8.1.0
+python-dotenv==1.0.0
+pyttsx3==2.90
+requests
+tqdm
